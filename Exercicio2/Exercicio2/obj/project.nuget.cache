@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJH9wICpoGswrYSmwPra7IohdecD8LsqD6jtAsCDW+hRc0Azvox7u3eJwSl6QeGM8BflBXUK1m2OlmKIpyLz+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Exercicios\\Exercicio2\\Exercicio2\\Exercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
